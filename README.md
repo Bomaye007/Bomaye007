@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-  - [SAA1 Capstone Project1](https://github.com/Bomaye007/)
+  - [Aws-Portfolio-Capstone](https://github.com/Bomaye007/)
 
 <h2>- Certifications</h2>
 
